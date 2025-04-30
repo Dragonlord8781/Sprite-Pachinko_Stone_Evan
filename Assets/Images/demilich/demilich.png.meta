@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      demilich_0: 3049221683264117171
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

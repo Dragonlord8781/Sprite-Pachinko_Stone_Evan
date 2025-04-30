@@ -186,7 +186,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gelato_0: 2387022679373770298
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
